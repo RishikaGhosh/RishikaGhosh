@@ -9,6 +9,6 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=RishikaGhosh&show_icons=true&theme=radical" alt="anushka23g" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RishikaGhosh&show_icons=true&theme=radical" alt="anushka23g" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RishikaGhosh&show_icons=true&theme=vision-friendly-dark" alt="anushka23g" /></p>
 
 
