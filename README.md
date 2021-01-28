@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <h4> Hi, I'm Rishika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h4>
-<p>👩‍🎓Im a Computer Science Student at Heritage Institute Of Technlogy and I love problem solving.</p>
+<p>👩‍🎓Im a Computer Science Student at Heritage Institute Of Technology and I love problem solving.</p>
 <p>🏃🏻‍♀️My mission is to learn and grow!So that one day Ill be able to contribute to the Tech community.</p>
 <p>🏁My dream is to become a Software Developer, and to solve real world problems!</p>
  
