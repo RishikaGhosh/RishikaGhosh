@@ -6,7 +6,7 @@
 - 🏃🏻‍♀️My mission is to learn and grow!So that one day Ill be able to contribute to the Tech community.
 - 🏁My dream is to become a Software Developer, and to solve real world problems!</p>
  
- **Languages and Tools:**
+ **Languages, Tools and Technologies:**
  
  
  <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40px" height="40px"></a>
