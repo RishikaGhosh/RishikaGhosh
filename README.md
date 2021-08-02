@@ -37,7 +37,7 @@
          
   
 <!-- ![](https://github.com/RishikaGhosh/RishikaGhosh/blob/master/img/github-user-contribution.svg)       -->
-
+<!-- ![Snake animation](https://github.com/RishikaGhosh/RishikaGhosh/blob/output/github-contribution-grid-snake.svg) -->
 
 <h2> Reach out to me: </h2>
 https://www.linkedin.com/in/rishika-ghosh-ab00371b2/
