@@ -24,7 +24,7 @@
  <a href="https://dialogflow.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/dialogflow.svg" alt="dialogflow" width="40px" height="40px"></a>
  <a href="https://heroku.org/" title="heroku"><img src="https://github.com/get-icon/geticon/raw/master/icons/heroku.svg" alt="python" width="40px" height="40px"></a>
 
- 
+  ![](https://komarev.com/ghpvc/?username=RishikaGhosh)
  
  <h2>My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
