@@ -5,6 +5,7 @@
 - 👩‍🎓Im a Computer Science Student at Heritage Institute Of Technology and I love problem solving.
 - 🏃🏻‍♀️My mission is to learn and grow!So that one day Ill be able to contribute to the Tech community.
 - 🏁My dream is to become a Software Developer, and to solve real world problems!</p>
+
  
  **Languages, Tools and Technologies:**
  
