@@ -55,5 +55,22 @@
 <!-- ![](https://github.com/RishikaGhosh/RishikaGhosh/blob/master/img/github-user-contribution.svg)       -->
 <!-- ![Snake animation](https://github.com/RishikaGhosh/RishikaGhosh/blob/output/github-contribution-grid-snake.svg) -->
 
-<h2> Reach out to me: </h2>
-https://www.linkedin.com/in/iamrishikaghosh/
+# Reach out to me
+
+<p align="center">
+<a href="https://github.com/RishikaGhosh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/RishikaGhosh20" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/iamrishikaghosh/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@rishikaghosh662001" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>   
+ <a href="https://stackoverflow.com/users/18814636/rishika-ghosh?tab=profile" target="_blank">
+<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a>  
+</p> 
