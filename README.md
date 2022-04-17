@@ -83,7 +83,7 @@
  <a href="https://stackoverflow.com/users/18814636/rishika-ghosh?tab=profile" target="_blank">
 <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>  
- <a href="https://stackoverflow.com/users/18814636/rishika-ghosh?tab=profile" target="_blank">
-<img src="https://img.shields.io/badge/DevPost-Portfolio-blue?style=for-the-badge&logo=appveyor"/>
+ <a href="https://devpost.com/parkrijimin?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
+<img src="https://img.shields.io/badge/-DevPost-blue?style=for-the-badge&logo=appveyor&logoColor=white"/>
 </a>  
 </p> 
