@@ -84,6 +84,6 @@
 <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>  
  <a href="https://devpost.com/parkrijimin?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
-<img src="https://img.shields.io/badge/-DevPost-blue?style=for-the-badge&logo=appveyor&logoColor=white"/>
+<img src="https://img.shields.io/badge/-DevPost-1D5C63?style=for-the-badge&logo=appveyor&logoColor=white"/>
 </a>  
 </p> 
