@@ -25,7 +25,8 @@
 <a href="https://dialogflow.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/dialogflow.svg" alt="dialogflow" width="40px" height="40px"></a>
  <a href=""><img src="https://user-images.githubusercontent.com/58912231/163524373-9dfc75fd-d509-469b-9f71-70362c3b1c50.png" alt="jira" width="40px" height="40px"></a>
 <a href="https://heroku.org/" title="heroku"><img src="https://github.com/get-icon/geticon/raw/master/icons/heroku.svg" alt="python" width="40px" height="40px"></a>
-
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40px" height="40px"/> </a>
+ 
 **Frameworks and Libraries**
 
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="40px" height="40px"></a>
@@ -49,7 +50,7 @@
 <a href="https://www.cypress.io/" title="Cypress"><img src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="Cypress" width="40px" height="40px"></a>
 
   ![](https://komarev.com/ghpvc/?username=RishikaGhosh)
- 
+ <a href="https://github.com/RishikaGhosh?tab=followers"><img src="https://img.shields.io/github/followers/RishikaGhosh?label=Followers&style=social" alt="GitHub Badge"></a>
  <h2>My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 
