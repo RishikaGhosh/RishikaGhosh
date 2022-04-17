@@ -2,12 +2,12 @@
 <h2> I'm Rishika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  <img src="https://user-images.githubusercontent.com/58912231/163521435-2aec33dd-0e14-4d7d-9c2c-7aeb154dcb05.gif" align="right">
  
-- 👩‍🎓Im a Computer Science Student at Heritage Institute Of Technology and I love problem solving.
- 
-- 🏃🏻‍♀️My mission is to learn and grow!So that one day Ill be able to contribute to the Tech community.
- 
-- 🏁My dream is to become a Software Developer, and to solve real world problems!</p>
-
+- 🎓 I am a 3rd year Computer Science Engineering Student at Heritage Institute Of Technology
+- 💖 I love **javascript**
+- 💻 I am proficient in **Python - Flask,C++/C** and frontend technologies.
+- 📈 I am an Upcoming Technology Analyst Intern [@MorganStanley](https://www.morganstanley.com/)
+- 📙 Proficient in DSA
+- 🐸 Fun Fact: In my free time I love playing with [flexbox froggy](https://flexboxfroggy.com/)
  
 **Languages**
 
