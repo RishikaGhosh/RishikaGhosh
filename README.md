@@ -55,7 +55,7 @@
 <!-- ![](https://github.com/RishikaGhosh/RishikaGhosh/blob/master/img/github-user-contribution.svg)       -->
 <!-- ![Snake animation](https://github.com/RishikaGhosh/RishikaGhosh/blob/output/github-contribution-grid-snake.svg) -->
 
-# Reach out to me
+<h2>Reach out to me</h2>
 
 <p align="center">
 <a href="https://github.com/RishikaGhosh" target="_blank">
