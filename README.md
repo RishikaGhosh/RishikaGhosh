@@ -37,7 +37,7 @@
 **Testing Frameworks**
 
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="40px" height="40px"></a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" style="color:white"/> </a>
+<a href="https://www.cypress.io/" title="Cypress"><img src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="Cypress" width="40px" height="40px"></a>
 
   ![](https://komarev.com/ghpvc/?username=RishikaGhosh)
  
