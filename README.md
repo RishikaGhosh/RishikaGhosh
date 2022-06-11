@@ -7,7 +7,7 @@
 - 💻 I am proficient in **Python - Flask,C++/C** and MERN Stack
 - 📈 I am an Upcoming Technology Analyst Intern [@MorganStanley](https://www.morganstanley.com/)
 - 📙 Proficient in DSA
-- 💻 Im currently learning **C#** and **.NET**
+- 💻 Im currently learning **Angular** and **Jenkins**
 - 🐸 Fun Fact: In my free time I love playing with [flexbox froggy](https://flexboxfroggy.com/) and [Twilio Quest](https://www.twilio.com/quest)
  
 **Languages**
