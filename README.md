@@ -65,9 +65,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RishikaGhosh&show_icons=true&theme=tokyonight_duo" alt="anushka23g" /></p>
       
          
-  
-<!-- ![](https://github.com/RishikaGhosh/RishikaGhosh/blob/master/img/github-user-contribution.svg)       -->
-<!-- ![Snake animation](https://github.com/RishikaGhosh/RishikaGhosh/blob/output/github-contribution-grid-snake.svg) -->
 
 <h2>Reach out to me</h2>
 
