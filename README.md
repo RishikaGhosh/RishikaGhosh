@@ -5,9 +5,12 @@
 - 🎓 I am a 3rd year Computer Science Engineering Student at Heritage Institute Of Technology
 - 💖 I love **javascript**
 - 💻 I am proficient in **Python - Flask,C++/C** and MERN Stack
-- 📈 I am an Upcoming Technology Analyst Intern [@MorganStanley](https://www.morganstanley.com/)
+- 📈 I am an Technology Analyst Intern [@MorganStanley](https://www.morganstanley.com/)
 - 📙 Proficient in DSA
-- 💻 Im currently learning **Angular** and **Jenkins**
+- 💻 I have worked on various front-end and back-end frameworks like **Angular**, **Spring Boot**, **MongoDB**.
+- 💻 Used CI/ CD tools like **Jenkins** extensively.
+- 💻 Extremely proficient in unit - testing frameworks like **Karma**, **Jasmine**, **JUnit**, and **Mockito**. 
+- 💻 Used **Jira** and **stashblue** extensively.
 - 🐸 Fun Fact: In my free time I love playing with [flexbox froggy](https://flexboxfroggy.com/) and [Twilio Quest](https://www.twilio.com/quest)
  
 **Languages**
