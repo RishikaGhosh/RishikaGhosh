@@ -12,7 +12,6 @@
 - 💻 Extremely proficient in unit - testing frameworks like **Karma**, **Jasmine**, **JUnit**, and **Mockito**. 
 - 💻 Used **Jira** and **stashblue** extensively.
 - 🐸 Fun Fact: In my free time I love playing with [flexbox froggy](https://flexboxfroggy.com/) and [Twilio Quest](https://www.twilio.com/quest)
- 
 
 
   ![](https://komarev.com/ghpvc/?username=RishikaGhosh)
