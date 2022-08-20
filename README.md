@@ -4,7 +4,7 @@
  
 - 🎓 I am a 3rd year Computer Science Engineering Student at Heritage Institute Of Technology
 - 💖 I love **javascript**
-- 💻 I am proficient in **Python - Flask,C++/C** and MERN Stack
+- 💻 I am proficient in **MEAN Stack** and **Python/ Flask**
 - 📈 I am an Technology Analyst Intern [@MorganStanley](https://www.morganstanley.com/)
 - 📙 Proficient in DSA
 - 💻 I have worked on various front-end and back-end frameworks like **Angular**, **Spring Boot**, **MongoDB**.
