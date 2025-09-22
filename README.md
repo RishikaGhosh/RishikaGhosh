@@ -2,11 +2,9 @@
 <h2> I'm Rishika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  <img src="https://user-images.githubusercontent.com/58912231/163521435-2aec33dd-0e14-4d7d-9c2c-7aeb154dcb05.gif" align="right">
  
-- 🎓 I am a 4th year Computer Science Engineering Student at Heritage Institute Of Technology
-- 💖 I love **javascript**
-- 💻 I am proficient in **MEAN Stack** and **Python/ Flask**
 - 📈 I am an Technology Associate (SDE) [@MorganStanley](https://www.morganstanley.com/)
 - 📙 Proficient in DSA
+- 💻 Building tools using GENAI. 
 - 💻 I have worked on various front-end and back-end frameworks like **Angular**, **Spring Boot**, **MongoDB**.
 - 💻 Used CI/ CD tools like **Jenkins** extensively.
 - 💻 Extremely proficient in unit - testing frameworks like **Karma**, **Jasmine**, **JUnit**, and **Mockito**. 
